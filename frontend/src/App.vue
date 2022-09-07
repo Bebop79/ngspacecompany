@@ -1318,11 +1318,11 @@
                                 <ul class="mb-2">
                                     <li class="text-truncate">
                                         <span class="text-light me-2">NG Site</span>
-                                        <a href="https://ngspacecompany.exileng.com/">https://ngspacecompany.exileng.com/</a>
+                                        <a href="https://ngspacecompany.freddecgames.com//">https://ngspacecompany.freddecgames.com//</a>
                                     </li>
                                     <li class="text-truncate">
                                         <span class="text-light me-2">NG Github</span>
-                                        <a href="https://github.com/ExileNG/NGSpaceCompany" target="_blank">https://github.com/ExileNG/NGSpaceCompany</a>
+                                        <a href="https://github.com/FreddecGames/ngspacecompany" target="_blank">https://github.com/FreddecGames/ngspacecompany</a>
                                     </li>
                                     <li class="text-truncate">
                                         <span class="text-light me-2">NG Discord</span>
